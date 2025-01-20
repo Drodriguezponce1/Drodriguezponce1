@@ -14,7 +14,7 @@ On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Softwar
 ---
 
 ### 🤖 Languages and Tools
-<img align="left" alt="Java" witdth="30px" style="padding-right:10px;" src="https://icons8.com/icon/13679/java"/>
+<img align="left" alt="Java" witdth="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
 <!--
 **Drodriguezponce1/Drodriguezponce1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
