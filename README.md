@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-**`Aspiring Software Engineer in the making....`**
+**`Aspiring Software Engineer in the making, risen from the Dark Side in the realm of Star Wars....`**
+
+On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Software Engineer that wants to specialize in Back-End Development and learn all the in's and out's
 <!--
 **Drodriguezponce1/Drodriguezponce1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
