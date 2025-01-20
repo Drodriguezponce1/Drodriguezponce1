@@ -10,6 +10,11 @@ On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Softwar
     <a href="https://github.com/Drodriguezponce1">
         <img alt = "repos" title="GitHub Repo" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-yellow?style=for-the-badge&logoColor=white&logo=repo"/> </a>
 </p>
+
+---
+
+### 🤖 Languages and Tools
+<img align="left" alt="Java" witdth="30px" style="padding-right:10px;" src="https://icons8.com/icon/13679/java"/>
 <!--
 **Drodriguezponce1/Drodriguezponce1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
