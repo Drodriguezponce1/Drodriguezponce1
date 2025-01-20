@@ -29,6 +29,13 @@ On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Softwar
     <li><strong>Master</strong> data structures and algorithms by advancing through LeetCode challenges.</li>
     <li><strong>Embark on</strong> a path to build projects centered around APIs and their integration.</li>
 </ul>
+
+---
+### 📊 Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drodriguezponce1&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Drodriguezponce1&theme=gruvbox&border_radius=4.5) -->
+
 <!--
 **Drodriguezponce1/Drodriguezponce1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
