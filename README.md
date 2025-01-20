@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**`Aspiring Software Engineer in the making, risen from the Dark Side in the realm of Star Wars....`**
+**`Aspiring Software Engineer, forging a path from the Dark Side in the Star Wars galaxy....`**
 
-On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Software Engineer that wants to specialize in Back-End Development and learn all the in's and out's
+On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Software Engineer aspiring to specialize in Back-End Development. I am eager to master all the intricacies of software engineering while honing my expertise. My current focus is on leveraging skills in Java, Python, and SQL to expand my knowledge and explore other programming languages. This repository serves as a chronicle of my journey — from learning Python, working on side projects, and eventually diving into advanced technologies like AI 
 <!--
 **Drodriguezponce1/Drodriguezponce1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
