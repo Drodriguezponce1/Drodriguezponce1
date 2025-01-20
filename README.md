@@ -19,12 +19,16 @@ On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Softwar
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <br/>
 
+---
+
 ### 🙋‍♂️ ⁉️ So, What's next?         
 
-On my journey through the galaxy, I aim to explore and learn new skills along the way:
-    * Delve into Prompt Engineering, AI agents, and leverage open-source resources like CrewAI.
-    * Master data structures and algorithms by advancing through LeetCode challenges.
-    * Embark on a path to build projects centered around APIs and their integration.
+<p>On my journey through the galaxy, I aim to explore and learn new skills along the way:</p>
+<ul>
+    <li><strong>Delve into</strong> Prompt Engineering, AI agents, and leverage open-source resources like CrewAI.</li>
+    <li><strong>Master</strong> data structures and algorithms by advancing through LeetCode challenges.</li>
+    <li><strong>Embark on</strong> a path to build projects centered around APIs and their integration.</li>
+</ul>
 <!--
 **Drodriguezponce1/Drodriguezponce1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
