@@ -23,8 +23,12 @@ On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Softwar
 
 ### 🤖 Currently Learning
 <img align="left" alt="AI" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/170677839?v=4"/>
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <br/>
 
 ---
@@ -36,6 +40,7 @@ On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Softwar
     <li><strong>Delve into</strong> Prompt Engineering, AI agents, and leverage open-source resources like CrewAI.</li>
     <li><strong>Master</strong> data structures and algorithms by advancing through LeetCode challenges.</li>
     <li><strong>Embark on</strong> a path to build projects centered around APIs and their integration.</li>
+    <li><strong>Build</strong> a website that uses the MERN stack and APi Integration.</li>
 </ul>
 
 ---
