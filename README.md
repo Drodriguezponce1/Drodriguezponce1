@@ -21,6 +21,14 @@ On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Softwar
 
 ---
 
+### 🤖 Currently Learning
+<img align="left" alt="AI" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/170677839?v=4"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<br/>
+
+---
+
 ### 🙋‍♂️ ⁉️ So, What's next?         
 
 <p>On my journey through the galaxy, I aim to explore and learn new skills along the way:</p>
