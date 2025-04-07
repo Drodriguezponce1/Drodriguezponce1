@@ -40,7 +40,7 @@ On a more serious note, my name is Daniel J. Rodriguez-Ponce, and I am a Softwar
     <li><strong>Delve into</strong> Prompt Engineering, AI agents, and leverage open-source resources like CrewAI.</li>
     <li><strong>Master</strong> data structures and algorithms by advancing through LeetCode challenges.</li>
     <li><strong>Embark on</strong> a path to build projects centered around APIs and their integration.</li>
-    <li><strong>Build</strong> a website that uses the MERN stack and APi Integration.</li>
+    <li><strong>Build</strong> a website that uses the MERN stack and API Integration.</li>
 </ul>
 
 ---
